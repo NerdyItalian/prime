@@ -2,7 +2,7 @@
   "name": "prime_solo_nd_01",
   "version": "1.0.0",
   "description": "Alicia Smith Resume",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server/app.js"
